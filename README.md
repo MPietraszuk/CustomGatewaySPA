@@ -1,6 +1,6 @@
 # Custom Gateway US
 
-Single page application displaying our US projects and the US team.
+Single page application displaying our US projects and the US team. View it now: [Click Me](https://mpietraszuk.github.io/CustomGatewaySPA/)
 
 ## Built With
 
